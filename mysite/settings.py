@@ -25,7 +25,7 @@ SECRET_KEY = '^efrl0b23h^r*k81sojz76p)3e%5n6smxfm31c8easu_8o)f#2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dgraff.org','198.211.101.216']
 
 
 # Application definition
